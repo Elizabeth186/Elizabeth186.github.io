@@ -1,42 +1,54 @@
-[
-        {
-          "Id":2,
-          "Nombre":"Kaiser",
-          "Raza":"Pitbull"
-        },
-        {
-            "Id":3,
-            "Nombre":"Lila",
-            "Raza" :"Chao-Chao"
-          },{
-            "Id":4,
-            "Nombre":"Cory",
-            "Raza": "Chihuahua"
-          },{
-            "Id":5,
-            "Nombre":"Lisa",
-            "Raza":"Bull Dog"
-          },{
-            "Id":6,
-            "Nombre":"Carl",
-            "Raza":"Meztizo"
-          },{
-            "Id":7,
-            "Nombre":"Pipe",
-            "Raza":"Salchicha"
-          },{
-            "Id":8,
-            "Nombre":"Luna",
-            "Raza":"Pitbull"
-          },{
-            "Id":9,
-            "Nombre":"Kyara",
-            "Raza":"Pator Aleman"
-          },{
-            "Id":10,
-            "Nombre":"Koba",
-            "Raza":"French"
-          }
-       
+{
+  "Caninos": {
+    "Informacion": [
+      {
+        "id": "1",
+        "Name": "Tom",
+        "Raza": "Pitbull",
+        "photo": "https://jsonformatter.org/img/tom-cruise.jpg"
+      },
+      {
+        "id": "2",
+        "Name": "Mari",
+        "Raza": "Sharpei",
+        "photo": "https://jsonformatter.org/img/Maria-Sharapova.jpg"
+      },
+      {
+        "id": "3",
+        "Name": "Robert",
+        "Raza": "Doberman",
+        "photo": "https://jsonformatter.org/img/Robert-Downey-Jr.jpg"
+      },
+      {
+        "id": "4",
+        "Name": "Cary",
+        "Raza": "Chihuahua",
+        "photo": "https://jsonformatter.org/img/Robert-Downey-Jr.jpg"
+      },
+      {
+        "id": "5",
+        "Name": "Laky",
+        "Raza": "Pitbull",
+        "photo": "https://jsonformatter.org/img/Robert-Downey-Jr.jpg"
+      },
+      {
+        "id": "6",
+        "Name": "Piter",
+        "Raza": "Bulldog",
+        "photo": "https://jsonformatter.org/img/Robert-Downey-Jr.jpg"
+      },
+      {
+        "id": "7",
+        "Name": "Yoli",
+        "Raza": "French",
+        "photo": "https://jsonformatter.org/img/Robert-Downey-Jr.jpg"
+      },
+      {
+        "id": "8",
+        "Name": "Miky",
+        "Raza": "Meztizo",
+        "photo": "https://jsonformatter.org/img/Robert-Downey-Jr.jpg"
+      }
     ]
-  
+  }
+}

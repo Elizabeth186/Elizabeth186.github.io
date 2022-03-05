@@ -1,6 +1,4 @@
-{
-  "Caninos": {
-    "Informacion": [
+ [
       {
         "id": "1",
         "Name": "Tom",
@@ -50,5 +48,4 @@
         "photo": "https://jsonformatter.org/img/Robert-Downey-Jr.jpg"
       }
     ]
-  }
-}
+  

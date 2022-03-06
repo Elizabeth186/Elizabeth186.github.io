@@ -4,7 +4,7 @@
         "Name": "Tom",
         "Raza": "Pitbull",
         "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCvzCG7hI-ypjW-0nnjLneeg9QnWo-3Aun2c_zmfVqeqwYXJI-8SSCD-6ljbjIqU_bxCE&usqp=CAU",
-        "description": "Parasitos Intestinales"
+        "Description": "Parasitos Intestinales"
         
       
       },
@@ -13,7 +13,7 @@
         "Name": "Mari",
         "Raza": "Sharpei",
         "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzUlM9fNuAGYYusghesS8UJ-KrB15T4MJmVg&usqp=CAU",
-        "description": "Acarosis"
+        "Description": "Acarosis"
       
       },
       {
@@ -21,7 +21,7 @@
         "Name": "Robert",
         "Raza": "Doberman",
         "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6RtMgew3aCjQmCCU4TFqw4JSdHlrg9G1qYw&usqp=CAU",
-        "description": "Dolores Intestinales"
+        "Description": "Dolores Intestinales"
       
       },
       {
@@ -29,7 +29,7 @@
         "Name": "Cary",
         "Raza": "Chihuahua",
         "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw7g470oagIF-RaT_Bq0l_RDlpU8cm615iXw&usqp=CAU",
-        "description": "Hectoparasitos"
+        "Description": "Hectoparasitos"
       
       },
       {
@@ -37,7 +37,7 @@
         "Name": "Laky",
         "Raza": "Pitbull",
         "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCvzCG7hI-ypjW-0nnjLneeg9QnWo-3Aun2c_zmfVqeqwYXJI-8SSCD-6ljbjIqU_bxCE&usqp=CAU",
-        "description": "Trauma Neura"
+        "Description": "Trauma Neura"
       
       },
       {
@@ -45,7 +45,7 @@
         "Name": "Piter",
         "Raza": "Bulldog",
         "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQilbIe4yJO0KwUfsu7W9lDrnkolE5T7m1riw&usqp=CAU",
-        "description": "Acarosis"
+        "Description": "Acarosis"
     
       },
       {
@@ -53,14 +53,14 @@
         "Name": "Yoli",
         "Raza": "French",
         "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu_XFlOyOxJzqKH2UchXXXpWOPDHuQHD01UQ&usqp=CAU",
-        "description": "Parasitos Intestinales"
+        "Description": "Parasitos Intestinales"
       },
       {
         "id": "8",
         "Name": "Miky",
         "Raza": "Meztizo",
         "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAh2dzDqNW_g8IsP2CM7fFWN-Gz99PhrZxpw&usqp=CAU",
-        "description": "Hongos en la piel"
+        "Description": "Hongos en la piel"
       
       }
     ]

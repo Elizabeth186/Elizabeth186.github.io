@@ -3,49 +3,65 @@
         "id": "1",
         "Name": "Tom",
         "Raza": "Pitbull",
-        "photo": "https://jsonformatter.org/img/tom-cruise.jpg"
+        "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCvzCG7hI-ypjW-0nnjLneeg9QnWo-3Aun2c_zmfVqeqwYXJI-8SSCD-6ljbjIqU_bxCE&usqp=CAU",
+        "description": "Parasitos Intestinales"
+        
+      
       },
       {
         "id": "2",
         "Name": "Mari",
         "Raza": "Sharpei",
-        "photo": "https://jsonformatter.org/img/Maria-Sharapova.jpg"
+        "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzUlM9fNuAGYYusghesS8UJ-KrB15T4MJmVg&usqp=CAU",
+        "description": "Acarosis"
+      
       },
       {
         "id": "3",
         "Name": "Robert",
         "Raza": "Doberman",
-        "photo": "https://jsonformatter.org/img/Robert-Downey-Jr.jpg"
+        "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6RtMgew3aCjQmCCU4TFqw4JSdHlrg9G1qYw&usqp=CAU",
+        "description": "Dolores Intestinales"
+      
       },
       {
         "id": "4",
         "Name": "Cary",
         "Raza": "Chihuahua",
-        "photo": "https://jsonformatter.org/img/Robert-Downey-Jr.jpg"
+        "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw7g470oagIF-RaT_Bq0l_RDlpU8cm615iXw&usqp=CAU",
+        "description": "Hectoparasitos"
+      
       },
       {
         "id": "5",
         "Name": "Laky",
         "Raza": "Pitbull",
-        "photo": "https://jsonformatter.org/img/Robert-Downey-Jr.jpg"
+        "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCvzCG7hI-ypjW-0nnjLneeg9QnWo-3Aun2c_zmfVqeqwYXJI-8SSCD-6ljbjIqU_bxCE&usqp=CAU",
+        "description": "Trauma Neura"
+      
       },
       {
         "id": "6",
         "Name": "Piter",
         "Raza": "Bulldog",
-        "photo": "https://jsonformatter.org/img/Robert-Downey-Jr.jpg"
+        "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQilbIe4yJO0KwUfsu7W9lDrnkolE5T7m1riw&usqp=CAU",
+        "description": "Acarosis"
+    
       },
       {
         "id": "7",
         "Name": "Yoli",
         "Raza": "French",
-        "photo": "https://jsonformatter.org/img/Robert-Downey-Jr.jpg"
+        "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu_XFlOyOxJzqKH2UchXXXpWOPDHuQHD01UQ&usqp=CAU",
+        "description": "Parasitos Intestinales"
       },
       {
         "id": "8",
         "Name": "Miky",
         "Raza": "Meztizo",
-        "photo": "https://jsonformatter.org/img/Robert-Downey-Jr.jpg"
+        "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAh2dzDqNW_g8IsP2CM7fFWN-Gz99PhrZxpw&usqp=CAU",
+        "description": "Hongos en la piel"
+      
       }
     ]
   
